@@ -38,6 +38,12 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	
+	<dependency>
+		<groupID>org.springframework.boot</groupID>
+		<artifactID>spring.boot.starter.thymeleaf</artifactID>
+	</dependency>
+	
 
 	<build>
 		<plugins>
